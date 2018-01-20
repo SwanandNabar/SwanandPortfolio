@@ -1,0 +1,16 @@
+{
+  "name": "swanandportfolio",
+  "description": "portfolio app for web using angularjs",
+  "main": "index.js",
+  "authors": [
+    "swanand nabar"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/SwanandNabar/SwanandPortfolio",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.6.8",
+    "jquery": "^3.3.0",
+    "bootstrap": "^4.0.0"
+  }
+}

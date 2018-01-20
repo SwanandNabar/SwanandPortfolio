@@ -1,0 +1,22 @@
+{
+  "name": "swanandportfolio",
+  "version": "1.0.0",
+  "description": "portfolio app for web using angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwanandNabar/SwanandPortfolio.git"
+  },
+  "author": "swanand nabar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SwanandNabar/SwanandPortfolio/issues"
+  },
+  "homepage": "https://github.com/SwanandNabar/SwanandPortfolio#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
